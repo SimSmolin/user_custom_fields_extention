@@ -14,7 +14,7 @@ This is Redmine plugin to add one feature. Added column in users custom fields t
 
     #####NOTE: 
    
-        - the plugin has been tested on Redmine 3.4.4 - 3.4.8
+        - the plugin has been tested on Redmine 3.4.4 - 3.4.8 
         - the plugin has been tested on Redmine 4.0.1 
 
 2. Restart Redmine
