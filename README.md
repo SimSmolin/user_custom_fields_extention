@@ -12,9 +12,9 @@ This is Redmine plugin to add one feature. Added column in users custom fields t
     ```
     For uninstall simple delete directory ```user_custom_fields_extention``` into #{RAILS_ROOT}/plugins 
 
-    #####NOTE: 
+    ###NOTE: 
    
-        - the plugin has been tested on Redmine 3.4.4 - 3.4.8 
+        - the plugin has been tested on Redmine 3.4.4 - 3.4.8
         - the plugin has been tested on Redmine 4.0.1 
 
 2. Restart Redmine
